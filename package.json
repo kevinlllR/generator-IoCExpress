@@ -1,0 +1,29 @@
+{
+  "name": "generator-ioc-express",
+  "version": "0.1.0",
+  "description": "Generator Express + Typescript + Webpack + Jest + IoC ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinlllR/generator-IoCExpress"
+  },
+  "author": "Kevin Mendoza",
+  "license": "MIT",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "typescript",
+    "ioc",
+    "awilix",
+    "webpack",
+    "jest"
+  ],
+  "homepage": "https://github.com/vallejos/https://github.com/kevinlllR/generator-IoCExpress#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.0.0",
+    "yo": "^3.1.1"
+  },
+  "private": false
+}
